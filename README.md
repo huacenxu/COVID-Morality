@@ -6,7 +6,7 @@ This repository holds the code and trained models behind:
 
 > Xu, H. (2024). Examining public attitudes and ideological divides through media engagement: An empirical analysis of moral foundations theory amidst the COVID-19 pandemic. *Current Research in Social Psychology*, 33(2). [PDF](https://crisp.org.uiowa.edu/sites/crisp.org.uiowa.edu/files/2024-03/Xu%20CRISP%2033.2.pdf)
 
-An earlier version was presented at the 72nd Annual ICA Conference (Paris, France, virtual, 2022) as "Pandemic Politics, Moralized: How Morality Predicts Audience Engagement with COVID-19 Messages from Partisan and Science Media on Facebook" (Yilang Peng & Huacen Xu) — [slides](https://docs.google.com/presentation/d/1P02BEcFpWBeF6pBoh8xLRv3I8Cl3dhCI/edit?usp=sharing&ouid=111383536844814990723&rtpof=true&sd=true).
+An earlier version was presented at the 72nd Annual ICA Conference (Paris, France, virtual, 2022) as "Pandemic Politics, Moralized: How Morality Predicts Audience Engagement with COVID-19 Messages from Partisan and Science Media on Facebook" (Yilang Peng & Huacen Xu).
 
 If you use this repository, please cite the paper above and consider giving the repo a star.
 
@@ -23,7 +23,7 @@ The research explores the relationship between moral framing and audience engage
 
 ### Data
 
-Textual data was extracted from public Facebook pages, then transformed and loaded into the notebooks. The data is [here](https://drive.google.com/drive/folders/1arjfRysDY4nwcsgwTbKBCkYeLl7tq3SB?usp=sharing).
+Textual data was extracted from public Facebook pages, then transformed and loaded into the notebooks. The dataset is not distributed with this repository.
 
 ### Install
 
